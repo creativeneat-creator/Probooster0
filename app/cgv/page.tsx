@@ -237,7 +237,7 @@ export default function CGVPage() {
             </section>
 
             <div className="rounded-2xl border border-border/80 bg-white/95 p-5 text-sm text-muted-foreground">
-              <p>Dernière mise à jour : {lastUpdate}</p>
+              <p>Dernière mise à jour : 11/09/2024</p>
             </div>
           </div>
 
